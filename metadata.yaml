@@ -1,0 +1,41 @@
+_repo: Letters-of-Samuel-Rutherford-Third-Edition-_42557
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42557-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Rutherford, Samuel
+    aliases:
+    - Rhetorfortis, Samuel
+    - Retorfortis, Samuel
+    - Rutherfurd, Samuel
+    deathdate: 1661
+    gutenberg_agent_id: '41740'
+    url: http://www.gutenberg.org/2009/agents/41740
+  editor:
+    agent_name: Bonar, Andrew A. (Andrew Alexander)
+    aliases:
+    - Bonar, Andrew Alexander
+    - Bonar, A. A. (Andrew Alexander)
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '5948'
+    url: http://www.gutenberg.org/2009/agents/5948
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Bonar
+description: ''
+gutenberg_issued: '2013-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Rutherford, Samuel, 1600?-1661 -- Correspondence'
+title: 'Letters of Samuel Rutherford
+
+  (Third Edition)'
+url: http://www.gutenberg.org/ebooks/42557
